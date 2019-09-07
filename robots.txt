@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://siejeesoox.clever-up.com/sitemap.xml
